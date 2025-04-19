@@ -1,4 +1,4 @@
-# Unsupervised Modeling of Image Memorability with Autoencoders and Explainable AI
+# Unsupervised Representation Learning for Understanding and Predicting Image Memorability through Autoencoders and Explainable AI
 
 This repository contains scripts for the official implementation of the paper:
 
