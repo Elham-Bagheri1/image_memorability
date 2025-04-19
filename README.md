@@ -37,8 +37,7 @@ This work provides computational insights into **visual memorability mechanisms*
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/memcat-analysis.git
-    cd memcat-analysis
+    git clone https://github.com/Elham-Bagheri1/image_memorability.git
     ```
 
 2. Install the required packages:
