@@ -152,8 +152,7 @@ We train a Multi-Layer Perceptron (MLP) on latent representations extracted from
 
 ## License
 
-This repository is licensed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)** license.  
-You are free to share, copy, and redistribute the material in any medium or format for non-commercial purposes, provided appropriate credit is given and no modifications or derivative works are made.
+This repository is licensed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)** license. You are free to share, copy, and redistribute the material in any medium or format for non-commercial purposes, provided appropriate credit is given and no modifications or derivative works are made.
 
 ---
 
